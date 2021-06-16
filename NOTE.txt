@@ -1,0 +1,21 @@
+access key :   AKIA277M3MTDOYXOXZIO
+
+secret key:  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
+
+
+/opt/appdynamics/machine_agent
+
+aws s3 cp “/opt/appdynSuccessfully built 99918aabc45c
+amics/machine_agent” s3://appdbackup/
+
+
+
+subscription-manager register --username abyoommen--password abyoommen@1994 --auto-attach
+
+12787342
+
+curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o docker-compose
+
+Successfully built 99918aabc45c
+docker ps
+docker login --username=athira1996 --
